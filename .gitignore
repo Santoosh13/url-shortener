@@ -1,0 +1,12 @@
+# Virtual environment
+url-short/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database file (optional — skip if you want to push it)
+urls.json
+
+# ngrok
+*.log
